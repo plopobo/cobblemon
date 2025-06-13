@@ -13,10 +13,9 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 3. Once you have opened the command prompt, type `java -version` and press Enter.  
     ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)  
     If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
-    If the command failed, proceed to the [next step](#install-java).
-   
-    > [!WARNING]  
-    > You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.  
+    If the command failed, proceed to the [next step](#install-java).  
+> [!WARNING]  
+> You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.  
 <br/>  
 
 ### Install Java  
@@ -24,8 +23,8 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
     - You'll want to download the <ins>Windows</ins> <ins>**x64**</ins> <ins>**.msi**</ins> version.  
 2. Run the downloaded installer and follow the steps to install Java 21.  
 3. When you reach this page, you should set the following features to "Will be installed on local hard drive":  
-        - [x] **Modify PATH variable**  
-        - [x] **Associate .jar**  
+    - [x] **Modify PATH variable**  
+    - [x] **Associate .jar**  
     ![OpenJDK-Options](https://github.com/user-attachments/assets/850a61a6-4345-465c-b5fd-f385593210a9)  
 4. Once you've done that, you can click <kbd>Next</kbd> and continue with the installation.  
 > [!TIP]  
