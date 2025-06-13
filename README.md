@@ -14,7 +14,8 @@ Download and run the latest version of the installer from [here](https://aka.ms/
     If the command failed, proceed to the [next step](#install-java).  
 > [!WARNING]
 > You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.  
-<br/>  
+<br/>
+
 ### Install Java
 1. Download the installer from [Microsoft](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21).  
     > You'll want to download the Windows x64 .msi version.  
@@ -27,6 +28,7 @@ Download and run the latest version of the installer from [here](https://aka.ms/
 > [!TIP]
 > Verify That Java 21 Is Installed installed by opening the command prompt again and typing `java --version`.  
 <br/>  
+
 ## Install Neoforge
 1. Go to the [NeoForge Download page](https://projects.neoforged.net/neoforged/neoforge)  
 2. Under the **Select Version** section select Minecraft version 1.21.1  
@@ -41,6 +43,7 @@ Download and run the latest version of the installer from [here](https://aka.ms/
 5. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
     ![NeoforgeInstaller](https://github.com/user-attachments/assets/22d06f41-bd06-49e7-b427-1278cb556c15)  
 <br/>  
+
 ## Download Cobblemon + Kotlin Mods
 > [!NOTE]
 > Cobblemon requires NeoForge and the Kotlin for Forge Mod.
@@ -58,6 +61,7 @@ Download and run the latest version of the installer from [here](https://aka.ms/
     > Platform: NeoForge  
 3. Then click the <kbd>Download</kbd> button to download.  
 <br/>  
+
 ## Install The Mods  
 1. Open the Minecraft Launcher.  
     > Make sure **Minecaraft: Java Edition** is selected from the left hand menu.  
@@ -72,6 +76,7 @@ Download and run the latest version of the installer from [here](https://aka.ms/
 > ![ModsFolder](https://github.com/user-attachments/assets/f73dc3c3-dff6-4389-bb3a-2681e10fa8d3)  
 > *Note: The versions in the filenames may be different*  
 <br/>  
+
 ## Launch the game!!  
 Once the mods have been loaded into the NeoForge `mods` folder, you can launch NeoForge and let the mods install.  
 1. Open the Minecraft Launcher.  
