@@ -44,7 +44,7 @@ We're going to install OpenJDK, an open-source version of Java. It works just li
 6. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
     ![NeoforgeInstaller](https://github.com/user-attachments/assets/22d06f41-bd06-49e7-b427-1278cb556c15)
 > [!NOTE]  
-> If you see a red box around the path make sure Minecraft is installed  
+> If you see a red box around the path make sure Minecraft Lancher is installed  
 <br/>  
 
 ## Download Cobblemon + Kotlin Mods
