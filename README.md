@@ -34,15 +34,15 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 ## Install Neoforge
 1. Go to the [NeoForge Download page](https://projects.neoforged.net/neoforged/neoforge)  
 2. Under the **Select Version** section select Minecraft version 1.21.1  
-    > [!TIP]
+    ![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)  
+    > [!TIP]  
     > You can select the Latest version for the **Neo Version**  
-    > ![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)  
-3. Find the downloaded installer file, right-click it and choose `Open With` > `OpenJDK Platform Library`  
+4. Find the downloaded installer file, right-click it and choose **Open With** > **OpenJDK Platform Library**  
     ![NeoforgeOpenWith](https://github.com/user-attachments/assets/59aba43d-28a7-486c-b15e-b01cb2b6cd5c)  
-4. The installer will attempt to install NeoForge into your vanilla launcher environment.  
+5. The installer will attempt to install NeoForge into your vanilla launcher environment.  
     > [!NOTE]
     > If you see a red box around the path make sure Minecraft is installed  
-5. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
+6. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
     ![NeoforgeInstaller](https://github.com/user-attachments/assets/22d06f41-bd06-49e7-b427-1278cb556c15)  
 <br/>  
 
