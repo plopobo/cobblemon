@@ -2,7 +2,7 @@
 ## Install Minecraft Launcher  
 Download and Install the latest version of the Minecraft Launcher from [here](https://aka.ms/minecraftClientGameCoreWindows)  
 > [!TIP]
-> [How to Download and Install the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher)  
+> For more information you can check out Minecraft Technical Support: [How to Download and Install the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher)  
 <br/>  
 
 ## Installing Java  
