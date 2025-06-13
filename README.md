@@ -10,7 +10,7 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 1. Open the run window by pressing <kbd>Win</kbd> + <kbd>R</kbd>  
 2. Type `cmd.exe` into the box that appears and click <kbd>OK</kbd>  
     ![RunCMD](https://github.com/user-attachments/assets/5eedcee4-04cb-436c-85c0-3b8191fbaac0)
-3. Once you have opened the command prompt, type `java -version` and press Enter.  
+3. Once you have opened the command prompt, type `java --version` and press Enter.  
     ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)  
     If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
     If the command failed, proceed to the [next step](#install-java).  
