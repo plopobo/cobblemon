@@ -34,10 +34,10 @@ We're going to install OpenJDK, which is an open-source version of Java. It work
 
 ## Install Neoforge
 1. Go to the [NeoForge Download page](https://projects.neoforged.net/neoforged/neoforge)  
-2. Under the `Select Version` section select Minecraft version 1.21.1  
+2. Under the `Select Version` section select Minecraft version `1.21.1`  
     ![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)  
 3. Click the `Download` icon  
-4. Find the downloaded file *(usually named neoforge-xx.x.xxx-installer.jar)*, right-click it and choose `Open With` > `OpenJDK Platform Library`  
+4. Find the downloaded file *(should be named neoforge-xx.x.xxx-installer.jar)*, right-click it and choose `Open With` > `OpenJDK Platform Library`  
     ![NeoforgeOpenWith](https://github.com/user-attachments/assets/59aba43d-28a7-486c-b15e-b01cb2b6cd5c)  
 5. The installer will attempt to install NeoForge into your vanilla launcher environment.  
 6. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
