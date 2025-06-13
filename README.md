@@ -1,7 +1,11 @@
 # Cobblemon Instructions  
 ## Install Minecraft Launcher  
-Download and run the latest version of the installer from [here](https://aka.ms/minecraftClientGameCoreWindows)
-<br>
+Download and Install the latest version of the Minecraft Launcher from [here](https://aka.ms/minecraftClientGameCoreWindows)  
+> [!TIP]
+> [How to Download and Install the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher)
+<br/>  
+<br/>  
+
 ## Installing Java
 > [!TIP]
 > Check to see if Java is already installed
@@ -21,9 +25,9 @@ Download and run the latest version of the installer from [here](https://aka.ms/
     > You'll want to download the Windows x64 .msi version.  
 2. Run the downloaded installer and follow the steps to install Java 21.  
 3. When you reach this page, you should set the following features to "Will be installed on local hard drive":  
-    > `Modify PATH variable`  
+    > **Modify PATH variable**  
     > `Associate .jar`  
-    > ![OpenJDK-Options](https://github.com/user-attachments/assets/850a61a6-4345-465c-b5fd-f385593210a9)  
+    ![OpenJDK-Options](https://github.com/user-attachments/assets/850a61a6-4345-465c-b5fd-f385593210a9)  
 4. Once you've done that, you can click <kbd>Next</kbd> and continue with the installation.  
 > [!TIP]
 > Verify That Java 21 Is Installed installed by opening the command prompt again and typing `java --version`.  
