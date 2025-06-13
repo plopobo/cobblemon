@@ -19,7 +19,7 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 <br/>  
 
 ### Install Java  
-We're going to install OpenJDK, which is an open-source version of Java. It works just like regular Java, but it's free. So even though it doesn’t say “Java” in big letters, don’t worry — it’s the same thing, and it’ll work perfectly for Cobblemon!  
+We're going to install OpenJDK, an open-source version of Java. It works just like regular Java — it's modern, free, and perfect for Cobblemon!  
 1. Download the latest OpenJDK 21 installer from [Microsoft](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21).  
     - You'll want to download the Windows **<ins>`x64`</ins> <ins>`.msi`</ins>** version.  
 2. Run the downloaded installer and follow the steps to install OpenJDK 21.  
