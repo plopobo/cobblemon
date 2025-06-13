@@ -8,9 +8,10 @@ Download and run the latest version of the installer from [here](https://aka.ms/
 1. Open the run window by pressing <kbd>Win</kbd> + <kbd>R</kbd>  
 2. Type `cmd.exe` into the box that appears and click <kbd>OK</kbd>  
     ![RunCMD](https://github.com/user-attachments/assets/5eedcee4-04cb-436c-85c0-3b8191fbaac0)
-3. Once you have opened the command prompt, type `java -version` and press Enter.
-    If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge). If the command failed, proceed to the [next step](#install-java).  
-    ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)
+3. Once you have opened the command prompt, type `java -version` and press Enter.  
+    ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)  
+    If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
+    If the command failed, proceed to the [next step](#install-java).  
 > [!WARNING]
 > You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.
 <br>
