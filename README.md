@@ -56,9 +56,9 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 1. Navigate to the [Cobblemon Download Page](https://modrinth.com/mod/cobblemon?version=1.21.1&loader=neoforge) and download the latest version.  
 2. Make sure to select:  
     > Game Version: `1.21.1`  
-    > Platform: `NeoForge`  
-
-![CobblemonDownload](https://github.com/user-attachments/assets/9e3cec57-f202-4857-aff3-b46cf9f281cd)  
+    > Platform: `NeoForge`
+    
+    ![CobblemonDownload](https://github.com/user-attachments/assets/9e3cec57-f202-4857-aff3-b46cf9f281cd)  
 3. Then click the <kbd>Download</kbd> button to download.  
 ### Download Kotlin Mod  
 1. Navigate to the [Kotlin Download Page](https://modrinth.com/mod/kotlin-for-forge/versions?version=1.21.1&loader=neoforge) and download the latest version.  
