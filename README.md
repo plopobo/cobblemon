@@ -12,8 +12,8 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
     ![RunCMD](https://github.com/user-attachments/assets/5eedcee4-04cb-436c-85c0-3b8191fbaac0)
 3. Once you have opened the command prompt, type `java --version` and press Enter.  
     ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)  
-    If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
-    If the command failed, proceed to the [next step](#install-java).  
+    :white_check_mark: If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
+    :negative_squared_cross_mark: If the command failed, proceed to the [next step](#install-java).  
 > [!WARNING]  
 > You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.  
 <br/>  
