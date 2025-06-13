@@ -12,8 +12,8 @@ Download and run the latest version of the installer from [here](https://aka.ms/
     ![CMD_JavaInstalled](https://github.com/user-attachments/assets/816caa9a-b3f2-444e-a70a-efcbd17d4d8e)  
     If the command runs successfully, you will see something like this. You can continue to [Install Neoforge](#install-neoforge).  
     If the command failed, proceed to the [next step](#install-java).  
-    > [!WARNING]
-    > You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.
+> [!WARNING]
+> You'll need at least Java 21 installed. If this command displays any version lower than 21, you'll need to update your existing Java installation.  
 <br/>  
 ### Install Java
 1. Download the installer from [Microsoft](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21).  
