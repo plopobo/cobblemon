@@ -4,7 +4,6 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 > [!TIP]
 > [How to Download and Install the Minecraft Launcher](https://help.minecraft.net/hc/en-us/articles/23907917790093-How-to-Download-and-Install-the-Minecraft-Launcher)  
 <br/>  
-<br/>  
 
 ## Installing Java  
 ### Check to see if Java is already installed  
@@ -28,8 +27,8 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
     > `Associate .jar`
 ![OpenJDK-Options](https://github.com/user-attachments/assets/850a61a6-4345-465c-b5fd-f385593210a9)  
 4. Once you've done that, you can click <kbd>Next</kbd> and continue with the installation.  
-> [!TIP]
-> Verify That Java 21 Is Installed installed by opening the command prompt again and typing `java --version`.  
+    > [!TIP]  
+    > Verify That Java 21 Is Installed installed by opening the command prompt again and typing `java --version`.  
 <br/>  
 
 ## Install Neoforge
