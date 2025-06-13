@@ -19,8 +19,7 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 <br/>  
 
 ### Install Java  
-> [!NOTE]  
-> We're going to install OpenJDK, which is an open-source version of Java. It works just like regular Java, but it's free, more modern, and built by Microsoft. So even though it doesn’t say “Java” in big letters, don’t worry — it’s the same thing, and it’ll work perfectly for Cobblemon!  
+We're going to install OpenJDK, which is an open-source version of Java. It works just like regular Java, but it's free, more modern, and built by Microsoft. So even though it doesn’t say “Java” in big letters, don’t worry — it’s the same thing, and it’ll work perfectly for Cobblemon!  
 1. Download the latest OpenJDK 21 installer from [Microsoft](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21).  
     - You'll want to download the Windows **<ins>`x64`</ins> <ins>`.msi`</ins>** version.  
 2. Run the downloaded installer and follow the steps to install OpenJDK 21.  
@@ -37,17 +36,15 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
 1. Go to the [NeoForge Download page](https://projects.neoforged.net/neoforged/neoforge)  
 2. Under the `Select Version` section select Minecraft version 1.21.1  
 > [!TIP]  
-> You can select the Latest version for the `Neo Version`
-
-    ![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)
+> You can select the Latest version for the `Neo Version`  
+![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)  
 3. Click the `Download` icon  
 4. Find the downloaded file *(usually named neoforge-xx.x.xxx-installer.jar)*, right-click it and choose `Open With` > `OpenJDK Platform Library`  
     ![NeoforgeOpenWith](https://github.com/user-attachments/assets/59aba43d-28a7-486c-b15e-b01cb2b6cd5c)  
 5. The installer will attempt to install NeoForge into your vanilla launcher environment.  
-6. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>
-   > [!NOTE]
-   > If you see a red box around the path make sure Minecraft is installed
-   
+6. Make sure `Install Client` is selected and click <kbd>Proceed</kbd>  
+> [!NOTE]  
+> If you see a red box around the path make sure Minecraft is installed  
     ![NeoforgeInstaller](https://github.com/user-attachments/assets/22d06f41-bd06-49e7-b427-1278cb556c15)   
 <br/>  
 
