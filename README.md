@@ -35,6 +35,7 @@ We're going to install OpenJDK, which is an open-source version of Java. It work
 ## Install Neoforge
 1. Go to the [NeoForge Download page](https://projects.neoforged.net/neoforged/neoforge)  
 2. Under the `Select Version` section select Minecraft version `1.21.1`  
+    - Neo version can be the latest.
     ![NeoForgeDownload](https://github.com/user-attachments/assets/d44efe5c-3bc5-45bb-afe0-a82424e30ecf)  
 3. Click the `Download` icon  
 4. Find the downloaded file *(should be named neoforge-xx.x.xxx-installer.jar)*, right-click it and choose `Open With` > `OpenJDK Platform Library`  
@@ -47,8 +48,7 @@ We're going to install OpenJDK, which is an open-source version of Java. It work
 <br/>  
 
 ## Download Cobblemon + Kotlin Mods
-> [!NOTE]
-> Cobblemon requires the `Kotlin for Forge` mod to run.  
+Cobblemon requires the `Kotlin for Forge` mod to run.  
 ### Download Cobblemon Mod  
 1. Navigate to the [Cobblemon Download Page](https://modrinth.com/mod/cobblemon?version=1.21.1&loader=neoforge) and download the latest version.  
 2. Make sure to select:  
