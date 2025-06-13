@@ -23,8 +23,8 @@ Download and Install the latest version of the Minecraft Launcher from [here](ht
     - You'll want to download the <ins>Windows</ins> <ins>**x64**</ins> <ins>**.msi**</ins> version.  
 2. Run the downloaded installer and follow the steps to install Java 21.  
 3. When you reach this page, you should set the following features to "Will be installed on local hard drive":  
-    - [x]**Modify PATH variable**  
-    - [x]`Associate .jar`  
+    - [x] **Modify PATH variable**  
+    - [x] `Associate .jar`  
     ![OpenJDK-Options](https://github.com/user-attachments/assets/850a61a6-4345-465c-b5fd-f385593210a9)  
 4. Once you've done that, you can click <kbd>Next</kbd> and continue with the installation.  
 > [!TIP]  
